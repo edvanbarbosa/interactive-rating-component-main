@@ -33,10 +33,15 @@ section{
 }
 .star{
     background-color:  hsl(216, 12%, 24%) ;
+    height: 1,5em;
     width: 1.5em;
+    
     border-radius: 50%;
     
 }
+    .img{
+        padding: 3em;
+    }
 h2{
     color: #fff;
     margin: 1.2em 0em 1em 0em;
